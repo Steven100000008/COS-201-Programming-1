@@ -1,10 +1,10 @@
 # COS 201 - Computer Programming I
 ## Week 1: Introduction to Programming and Problem-Solving
 ### Student Details
-- Name: [FRIDAY STEPHEN]
+- Name: FRIDAY STEPHEN
+- Matric Number: 24/13634
 - Programme: Computer Science (CSC)
 - Course Code: COS 201
-- Matric no: 24/13634
 ### Practical Exercise
 Created and executed my first Java programme.
 ### File
