@@ -4,6 +4,7 @@
 - Name: [FRIDAY STEPHEN]
 - Programme: Computer Science (CSC)
 - Course Code: COS 201
+- Matric no: 24/13634
 ### Practical Exercise
 Created and executed my first Java programme.
 ### File
